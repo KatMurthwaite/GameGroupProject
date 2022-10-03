@@ -76,3 +76,5 @@ DerivedDataCache/*
 Intermediate/*
 Saved/Logs/*
 
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/*
